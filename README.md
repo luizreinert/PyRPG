@@ -11,5 +11,7 @@
 
 # Funcionalidades planejadas
 • Adição de novos inimigos e a introdução da capacidade de criar uma classe personalizada.
+
 • Desenvolvimento de um sistema de batalha básico, utilizando aleatorização para determinar resultados e dinamizar os combates
+
 • Criação de um sistema de progressão que permite aos personagens subirem de nível, obtendo novos pontos de atributos à medida que ganham experiência
