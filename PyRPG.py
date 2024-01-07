@@ -105,7 +105,7 @@ def texto_anim(texto):
     sleep(0.04)
   return c
 
-# Função principal que permite ao jogador escolher uma classe de emojis a partir de um menu, confirmar a escolha e prosseguir com o jogo
+# Função principal que permite ao jogador escolher a classe do jogador a partir do menu
 def main():
   clas = {'1': Mago, '2': Guerreiro, '3': Clerigo, '4': Ladino, '5': Arqueiro}
   print(f'\n{cor("yl")}Escolha a sua classe!{cor('reset')}\n')
